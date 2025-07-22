@@ -47,7 +47,7 @@ This dashboard helps marketing teams and agencies:
 
 ## 🚀 Quick Start
 
-### Option 1: Google Colab (Recommended)
+### Google Colab (Recommended)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1AkshatThakur1/influencer-roi-dashboard/blob/main/Dashboard_to_track_and_visualize_the_ROI_of_influencer_campaigns.ipynb)
 
 1. Click the "Open in Colab" badge above
@@ -55,4 +55,3 @@ This dashboard helps marketing teams and agencies:
 3. The dashboard will display with realistic sample data
 4. No installation required!
 
-### Option 2: Local Setup
